@@ -1,1 +1,1 @@
-# DAW1_CL2_LUIS_MACHACA_RUIZ
+# Repositorio para proyecto de CL2 daw-ventas
